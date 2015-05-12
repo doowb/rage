@@ -1,0 +1,37 @@
+{
+  "name": "rage",
+  "description": "Add console.rage to your applications.",
+  "version": "0.1.0",
+  "homepage": "https://github.com/doowb/rage",
+  "author": {
+    "name": "Brian Woodward",
+    "url": "https://github.com/doowb"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/doowb/rage.git"
+  },
+  "bugs": {
+    "url": "https://github.com/doowb/rage/issues"
+  },
+  "license": {
+    "type": "MIT",
+    "url": "https://github.com/doowb/rage/blob/master/LICENSE"
+  },
+  "files": [
+    "index.js"
+  ],
+  "main": "index.js",
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "mocha": "*",
+    "should": "*"
+  },
+  "keywords": []
+}
