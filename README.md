@@ -1,4 +1,4 @@
-# rage [![NPM version](https://badge.fury.io/js/rage.svg)](http://badge.fury.io/js/rage) 
+# rage [![NPM version](https://badge.fury.io/js/rage.svg)](http://badge.fury.io/js/rage)
 
 > Add console.rage to your applications.
 
