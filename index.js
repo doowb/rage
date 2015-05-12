@@ -7,6 +7,23 @@
 
 'use strict';
 
-module.exports = function () {
-  // do stuff
+/**
+ * Add a `.rage` method to your `console`.
+ * Based on this tweet: https://twitter.com/dmosher/status/598172559650082816
+ *
+ * ```
+ * require('rage')(console);
+ * console.rage('ARGGGH');
+ * ```
+ * @name  rage
+ * @param  {Object} `cons` console object
+ * @api public
+ */
+
+module.exports = function (cons) {
+  var chalk = require('chalk');
+  cons.rage = function(m) {
+    var s = 'background: red; color: white';
+    cons.log(chalk.bgRed('(╯°□°）╯︵ ┻━┻  ' + m));
+  };
 };

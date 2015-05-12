@@ -30,5 +30,8 @@
   },
   "devDependencies": {
     "mocha": "*"
+  },
+  "dependencies": {
+    "chalk": "^1.0.0"
   }
 }
