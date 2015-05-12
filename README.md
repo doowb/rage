@@ -1,4 +1,4 @@
-# rage [![NPM version](https://badge.fury.io/js/rage.svg)](http://badge.fury.io/js/rage)  [![Build Status](https://travis-ci.org/doowb/rage.svg)](https://travis-ci.org/doowb/rage) 
+# rage [![NPM version](https://badge.fury.io/js/rage.svg)](http://badge.fury.io/js/rage) 
 
 > Add console.rage to your applications.
 
