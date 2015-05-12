@@ -28,10 +28,7 @@
   "scripts": {
     "test": "mocha"
   },
-  "dependencies": {},
   "devDependencies": {
-    "mocha": "*",
-    "should": "*"
-  },
-  "keywords": []
+    "mocha": "*"
+  }
 }
