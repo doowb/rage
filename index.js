@@ -23,7 +23,6 @@
 module.exports = function (cons) {
   var chalk = require('chalk');
   cons.rage = function(m) {
-    var s = 'background: red; color: white';
     cons.log(chalk.bgRed('(╯°□°）╯︵ ┻━┻  ' + m));
   };
 };
