@@ -32,6 +32,6 @@
     "mocha": "*"
   },
   "dependencies": {
-    "chalk": "^1.0.0"
+    "ansi-bgred": "^0.1.1"
   }
 }

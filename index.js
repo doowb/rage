@@ -21,8 +21,8 @@
  */
 
 module.exports = function (cons) {
-  var chalk = require('chalk');
+  var bgRed = require('ansi-bgred');
   cons.rage = function(m) {
-    cons.log(chalk.bgRed('(╯°□°）╯︵ ┻━┻  ' + m));
+    cons.log(bgRed('(╯°□°）╯︵ ┻━┻  ' + m));
   };
 };
