@@ -33,5 +33,22 @@
   },
   "dependencies": {
     "ansi-bgred": "^0.1.1"
-  }
+  },
+  "contributors": [
+    {
+      "name": "Brian Woodward",
+      "email": "brian.woodward@gmail.com",
+      "url": "https://github.com/doowb"
+    },
+    {
+      "name": "Jarrett Drouillard",
+      "email": "jarrett@thestyl.us",
+      "url": "https://github.com/kuatsure"
+    },
+    {
+      "name": "Jon Schlinkert",
+      "email": "github@sellside.com",
+      "url": "https://github.com/jonschlinkert"
+    }
+  ]
 }
